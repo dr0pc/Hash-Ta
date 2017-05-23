@@ -2,6 +2,7 @@
  * HashTable.java
  *
  * Created on November 9, 2005, 7:10 PM
+ * Modificado por Luis Carreto  21/5/2017
  *
  * To change this template, choose Tools | Options and locate the template under
  * the Source Creation and Management node. Right-click the template and choose
